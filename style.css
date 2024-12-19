@@ -1,0 +1,6 @@
+.no-results-text {
+    font-weight: bold; /* Makes the text bold */
+    font-size: 1.5rem; /* Increases the font size */
+    color: #333; /* Adjust the text color if necessary */
+    margin-top: 20px; /* Adds some space above the text */
+}
